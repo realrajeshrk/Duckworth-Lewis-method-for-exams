@@ -1,2 +1,3 @@
 # Duckworth-Lewis-method-for-exams
-DLS method for assessing students 
+Andha maari oru mannangatti method um ila
+
